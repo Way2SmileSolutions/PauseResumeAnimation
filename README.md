@@ -15,6 +15,8 @@
     moveAnimation.repeatCount = HUGE_VALF;
     
     [indicatorView.layer addAnimation:moveAnimation forKey:@"position"];
+ 
+**Pausing & Resuming animation**
 
  To pause and resume an animation, the key idea is to use timing of an animation i.e CAMediaTiming protocol for the view layer. By using speed and timeoffset property of layer, we can control the animation timing.
 
