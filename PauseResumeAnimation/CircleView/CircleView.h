@@ -10,7 +10,6 @@
 
 #import <QuartzCore/QuartzCore.h>
 
-IB_DESIGNABLE
 
 @interface CircleView : UIView  {
     
