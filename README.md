@@ -33,7 +33,7 @@
     CFTimeInterval timeSincePause = [layer convertTime:CACurrentMediaTime() fromLayer:nil] - pausedTime;
     layer.beginTime = timeSincePause;
 
-**Refernce:**
+**Reference:**
 
 http://www.objc.io/issue-12/animations-explained.html
 
