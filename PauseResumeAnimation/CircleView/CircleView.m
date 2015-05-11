@@ -7,13 +7,6 @@
 
 #import "CircleView.h"
 
-typedef NS_ENUM(NSInteger, kTTCounter){
-    kTTCounterRunning = 0,
-    kTTCounterStopped,
-    kTTCounterReset,
-    kTTCounterEnded
-};
-
 @implementation CircleView
 
 @synthesize indicatorView;

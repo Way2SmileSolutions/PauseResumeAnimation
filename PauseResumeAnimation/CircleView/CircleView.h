@@ -16,7 +16,6 @@ IB_DESIGNABLE
     
     IBOutlet UIButton *_startStopButton;
     CAKeyframeAnimation* moveAnimation;
-    CABasicAnimation* circleFillAnimation;
     CAShapeLayer *circle;
 }
 
