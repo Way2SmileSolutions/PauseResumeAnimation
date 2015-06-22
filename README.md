@@ -37,6 +37,6 @@
 
 **Reference:**
 
-http://www.objc.io/issue-12/animations-explained.html
+http://www.objc.io/issues/12-animations/animations-explained/
 
 http://ronnqvi.st/controlling-animation-timing/
